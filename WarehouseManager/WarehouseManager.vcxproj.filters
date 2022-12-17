@@ -24,7 +24,7 @@
     <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\Client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\ghiFile.cpp">
+    <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\FileHandle.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\Interface.cpp">

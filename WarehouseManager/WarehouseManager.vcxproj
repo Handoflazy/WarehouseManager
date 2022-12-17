@@ -132,7 +132,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\Backup.cpp" />
     <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\Client.cpp" />
-    <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\ghiFile.cpp" />
+    <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\FileHandle.cpp" />
     <ClCompile Include="..\..\..\Programs\Program C++\QUANLYKHOHANG\QUANLYKHOHANG\Interface.cpp" />
   </ItemGroup>
   <ItemGroup>
